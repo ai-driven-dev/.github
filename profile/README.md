@@ -7,6 +7,14 @@ Bienvenue dans notre dépôt principal !
 
 ![Status](https://img.shields.io/badge/statut-actif-brightgreen)
 
+- [Projets](#projets)
+  - [📦 Aliases](#-aliases)
+  - [💬 Prompts](#-prompts)
+- [📘 Guide Gratuit : "Coder avec L'IA"](#-guide-gratuit--coder-avec-lia)
+  - [Bonus](#bonus)
+- [Rejoindre L'AIDD](#rejoindre-laidd)
+- [🚀 Commencer maintenant](#-commencer-maintenant)
+
 ---
 
 ## Projets
