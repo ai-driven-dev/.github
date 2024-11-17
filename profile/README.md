@@ -9,20 +9,6 @@ Bienvenue dans notre dépôt principal !
 
 ---
 
-## 📘 Guide Gratuit : "Coder avec L'IA"
-
-**Découvrez notre méthode pour gagne 1h à 2h par jour en utilisant l'IA pour coder**  
-
-[Télécharger le guide avec nos méthodes](https://learn.alexsoyes.com/guide-ia?utm_source=github&utm_medium=readme&utm_campaign=guide-ia)
-
-**Bonus**
-
-- 🧑‍💻 Communauté IA privée pour les développeurs
-- 📑 Bibliothèque + 50 prompts pour coder
-- 🚀 La meilleure Stack IA de 2024
-
----
-
 ## Projets
 
 ### 📦 Aliases
@@ -38,6 +24,20 @@ Une liste d'aliases pour vos commandes (avec et sans IA) dans le terminal.
 Une bibliothèque de prompts IA pour coder (+ logiciel d'expansion intégré).  
 
 [Découvrir nos prompts](https://github.com/ai-driven-dev/prompts)
+
+---
+
+## 📘 Guide Gratuit : "Coder avec L'IA"
+
+**Découvrez notre méthode pour gagne 1h à 2h par jour en utilisant l'IA pour coder**  
+
+[Télécharger le guide avec nos méthodes](https://learn.alexsoyes.com/guide-ia?utm_source=github&utm_medium=readme&utm_campaign=guide-ia)
+
+**Bonus**
+
+- 🧑‍💻 Communauté IA privée pour les développeurs
+- 📑 Bibliothèque + 50 prompts pour coder
+- 🚀 La meilleure Stack IA de 2024
 
 ---
 
