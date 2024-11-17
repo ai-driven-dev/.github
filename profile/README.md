@@ -13,7 +13,7 @@ Bienvenue dans notre dépôt principal !
 
 ### 📦 Aliases
 
-Une liste d'aliases pour vos commandes (avec et sans IA) dans le terminal. 
+Une liste d'aliases pour vos commandes (avec et sans IA) dans le terminal.
 
 [Découvrir nos commandes](https://github.com/ai-driven-dev/aliases)
 
@@ -33,7 +33,7 @@ Une bibliothèque de prompts IA pour coder (+ logiciel d'expansion intégré).
 
 [Télécharger le guide avec nos méthodes](https://learn.alexsoyes.com/guide-ia?utm_source=github&utm_medium=readme&utm_campaign=guide-ia)
 
-**Bonus**
+### Bonus
 
 - 🧑‍💻 Communauté IA privée pour les développeurs
 - 📑 Bibliothèque + 50 prompts pour coder
