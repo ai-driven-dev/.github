@@ -1,11 +1,11 @@
 
 # 🌟 AI-Driven Dev {AIDD}
 
+![Status](https://img.shields.io/badge/statut-actif-brightgreen)
+
 Bienvenue dans notre dépôt principal !
 
 **Nous sommes une communauté de développeurs passionnés par l'IA** ; notre but est de coder mieux, plus vite, plus efficacement.
-
-![Status](https://img.shields.io/badge/statut-actif-brightgreen)
 
 - [Projets](#projets)
   - [📦 Aliases](#-aliases)
