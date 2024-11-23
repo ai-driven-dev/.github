@@ -10,22 +10,16 @@ Bienvenue dans notre dépôt principal !
 
 **Nous sommes une communauté de développeurs passionnés par l'IA** ; notre but est de coder mieux, plus vite, plus efficacement.
 
-- [Projets](#projets)
-- [📘 Guide Gratuit : "Coder avec L'IA"](#-guide-gratuit--coder-avec-lia)
-  - [Bonus](#bonus)
-- [Rejoindre L'AIDD](#rejoindre-laidd)
-- [🚀 Commencer maintenant](#-commencer-maintenant)
-
 ---
 
-## Projets
+## 🧑‍💻 Projets
 
 | Projet | Description |
 |--------|-------------|
-| [📦 Aliases](https://github.com/ai-driven-dev/aliases) | Une liste d'aliases pour vos commandes de terminal (avec et sans IA). |
-| [💬 Prompts](https://github.com/ai-driven-dev/prompts) | Une bibliothèque de prompts IA pour développeurs (+ logiciel d'expansion intégré). |
-| [🧩 VSCode](https://github.com/ai-driven-dev/vscode) | Une extension VS Code optimisant votre expérience de développement avec des paramètres et snippets TypeScript personnalisés. |
-| [👤 Instructions](https://github.com/ai-driven-dev/instructions) | Une collection d'instructions IA personnalisées pour optimiser vos conversations techniques avec l'IA. |
+| [📦 Aliases](https://github.com/ai-driven-dev/aliases) | Liste d'aliases pour vos commandes de terminal (avec et sans IA). |
+| [💬 Prompts](https://github.com/ai-driven-dev/prompts) | Bibliothèque de prompts IA pour développeurs (+ logiciel d'expansion intégré). |
+| [🧩 VSCode](https://github.com/ai-driven-dev/vscode) | Extension VSCode améliorant votre expérience de dev IA avec une config + snippets personnalisés. |
+| [👤 Instructions](https://github.com/ai-driven-dev/instructions) | Collection d'instructions pour optimiser vos échanges techniques avec l'IA. |
 
 ---
 
