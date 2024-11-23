@@ -16,10 +16,10 @@ Bienvenue dans notre dépôt principal !
 
 | Projet | Description |
 |--------|-------------|
-| [📦 Aliases](https://github.com/ai-driven-dev/aliases) | Liste d'aliases pour vos commandes de terminal (avec et sans IA). |
-| [💬 Prompts](https://github.com/ai-driven-dev/prompts) | Bibliothèque de prompts IA pour développeurs (+ logiciel d'expansion intégré). |
-| [🧩 VSCode](https://github.com/ai-driven-dev/vscode) | Extension VSCode améliorant votre expérience de dev IA avec une config + snippets personnalisés. |
 | [👤 Instructions](https://github.com/ai-driven-dev/instructions) | Collection d'instructions pour optimiser vos échanges techniques avec l'IA. |
+| [💬 Prompts](https://github.com/ai-driven-dev/prompts) | Bibliothèque de prompts IA pour développeurs (+ logiciel d'expansion intégré). |
+| [📦 Aliases](https://github.com/ai-driven-dev/aliases) | Liste d'aliases pour vos commandes de terminal (avec et sans IA). |
+| [🧩 VSCode](https://github.com/ai-driven-dev/vscode) | Extension VSCode améliorant votre expérience de dev IA avec une config + snippets personnalisés. |
 
 ---
 
