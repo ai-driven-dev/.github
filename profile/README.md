@@ -34,6 +34,7 @@ git clone git@github.com:ai-driven-dev/discord.git
 git clone git@github.com:ai-driven-dev/flow.git
 git clone git@github.com:ai-driven-dev/kpi.git
 git clone git@github.com:ai-driven-dev/prompts.git
+git clone git@github.com:ai-driven-dev/rules.git
 git clone git@github.com:ai-driven-dev/vscode.git
 git clone git@github.com:ai-driven-dev/webhooks.git
 
