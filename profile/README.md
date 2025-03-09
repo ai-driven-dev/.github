@@ -33,8 +33,11 @@ git clone git@github.com:ai-driven-dev/courses.git
 git clone git@github.com:ai-driven-dev/discord.git
 git clone git@github.com:ai-driven-dev/flow.git
 git clone git@github.com:ai-driven-dev/kpi.git
-git clone git@github.com:ai-driven-dev/le-journal.git
 git clone git@github.com:ai-driven-dev/prompts.git
 git clone git@github.com:ai-driven-dev/vscode.git
 git clone git@github.com:ai-driven-dev/webhooks.git
+
+# Optional
+git clone git@github.com:ai-driven-dev/le-journal.git # SaaS d'Alex
+git clone git@github.com:ai-driven-dev/katas-coding-with-ia.git # Katas de Manu
 ```
