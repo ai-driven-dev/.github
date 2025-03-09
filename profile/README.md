@@ -10,25 +10,31 @@ Bienvenue dans notre dépôt principal !
 
 **Nous sommes une communauté de développeurs passionnés par l'IA** ; notre but est de coder mieux, plus vite, plus efficacement.
 
----
-
-## 🧑‍💻 Projets
-
-| Projet | Description |
-|--------|-------------|
-| [🤖 Agents](https://github.com/ai-driven-dev/agents) | Collection d'instructions pour optimiser vos échanges techniques avec l'IA. |
-| [📑 Prompts](https://github.com/ai-driven-dev/prompts) | Bibliothèque de prompts IA pour développeurs (+ logiciel d'expansion intégré). |
-| [🖥️ Commandes](https://github.com/ai-driven-dev/aliases) | Liste d'aliases pour vos commandes de terminal (avec et sans IA). |
-| [🧩 VSCode](https://github.com/ai-driven-dev/vscode) | Extension VSCode améliorant votre expérience de dev IA avec une config + snippets personnalisés. |
-
----
-
 ## 🎉 AI-Driven Dev France
 
- **Rejoindre +500 devs IA actifs** sur [Discord](https://bit.ly/alexsoyes-discord).  
+ **Rejoindre +800 devs IA actifs** sur [Discord](https://bit.ly/alexsoyes-discord).  
 
 - Dernières actualités
 - Meilleurs outils
 - Tutorials et démonstrations
 - Événements
 - Lives
+
+## 📦 Installation
+
+```bash
+mkdir -vp ~/projects/ai-driven-dev/
+cd ~/projects/ai-driven-dev/
+
+git clone git@github.com:ai-driven-dev/.github.git
+git clone git@github.com:ai-driven-dev/agents.git
+git clone git@github.com:ai-driven-dev/aliases.git
+git clone git@github.com:ai-driven-dev/courses.git
+git clone git@github.com:ai-driven-dev/discord.git
+git clone git@github.com:ai-driven-dev/flow.git
+git clone git@github.com:ai-driven-dev/kpi.git
+git clone git@github.com:ai-driven-dev/le-journal.git
+git clone git@github.com:ai-driven-dev/prompts.git
+git clone git@github.com:ai-driven-dev/vscode.git
+git clone git@github.com:ai-driven-dev/webhooks.git
+```
