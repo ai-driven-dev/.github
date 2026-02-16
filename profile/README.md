@@ -12,23 +12,5 @@ Bienvenue dans notre dépôt principal !
 
 ## 🎉 AI-Driven Dev France
 
- **Rejoindre +2K devs IA actifs** sur [Discord](https://bit.ly/alexsoyes-discord).  
+ **Rejoindre +3K devs IA** sur [Discord](https://bit.ly/alexsoyes-discord).  
 
-- Dernières actualités
-- Meilleurs outils
-- Tutorials et démonstrations
-- Événements
-- Lives
-
-## 📦 Installation
-
-```bash
-mkdir -vp ~/projects/ai-driven-dev/
-cd ~/projects/ai-driven-dev/
-
-git clone git@github.com:ai-driven-dev/.github.git
-git clone git@github.com:ai-driven-dev/agents.git
-git clone git@github.com:ai-driven-dev/prompts.git
-git clone git@github.com:ai-driven-dev/rules.git
-git clone git@github.com:ai-driven-dev/vscode.git
-```
