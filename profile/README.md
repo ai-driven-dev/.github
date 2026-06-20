@@ -12,7 +12,7 @@ The AI writes the code; **we stay the architects**. Every line that ships is our
 <br/>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](https://github.com/ai-driven-dev/aidd-framework/blob/main/LICENSE)
-[![Discord](https://img.shields.io/discord/1173363373115723796?style=flat-square&color=5865F2&label=discord&logo=discord&logoColor=white)](https://discord.gg/ai-driven-dev)
+[![Discord](https://img.shields.io/discord/1173363373115723796?style=flat-square&color=5865F2&label=discord&logo=discord&logoColor=white)](https://discord.gg/EWySJSpjWs)
 [![Stars](https://img.shields.io/github/stars/ai-driven-dev/aidd-framework?style=flat-square&color=6366F1&logo=github)](https://github.com/ai-driven-dev/aidd-framework)
 [![Website](https://img.shields.io/badge/web-ai--driven--dev.fr-6366F1?style=flat-square&logo=firefox&logoColor=white)](https://www.ai-driven-dev.fr/)
 [![Made in France](https://img.shields.io/badge/made%20in-France-0055A4?style=flat-square&labelColor=EF4135)](https://www.ai-driven-dev.fr/)
@@ -43,7 +43,7 @@ We wrote down how we work with AI: the values and principles that keep developer
 
 **3 000+ developers**, weekly live sessions and shared workflows. The Discord is where most of it happens, and it's free.
 
-[![Join the Discord](https://img.shields.io/badge/Join_the_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ai-driven-dev)
+[![🇫🇷 Join the Discord](https://img.shields.io/badge/Join_the_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/ai-driven-dev](https://discord.gg/EWySJSpjWs))
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aidd_off)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ai-driven-dev)
 
